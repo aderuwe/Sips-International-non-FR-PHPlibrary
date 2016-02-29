@@ -3,7 +3,6 @@
     "autoload": {
         "psr-0": { "Sips": "lib/" }
     },
-    {
     "extra": {
         "branch-alias": {
             "dev-master": "1.1.x-dev"
